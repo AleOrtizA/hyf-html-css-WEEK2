@@ -1,0 +1,56 @@
+MINGW64:/c/Users/Gebruiker/homeworkweek2
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~
+$ mkdir homeworkweek2
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~
+$ cd homeworkweek2
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ explorer.exe
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ touch blank.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ "hello hello hello hello hello" > greetings.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ ls -l
+blank.txt
+greetings.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "hello hello hello hello hello" > 1.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "hello hello hello hello hello" > 2.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "hello hello hello hello hello" > 3.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "hello hello hello hello hello" > 4.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "hello hello hello hello hello" > 5.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "cat" > pets.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "dog" >> pets.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "hamster" >>pets.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "cat" > commands.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "is" >> commands.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "pwd" >> commands.txt
+
+Gebruiker@DESKTOP-LRPQORF MINGW64 ~/homeworkweek2
+$ echo "cat dog hamster is pwd" > lovelyCommands.txt
